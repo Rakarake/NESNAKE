@@ -1,0 +1,30 @@
+﻿Patater guide: https://patater.com/nes-asm-tutorials/day-1/
+The "other" guide: http://nintendoage.com/forum/messageview.cfm?catid=22&threadid=7155
+Vetenskapliga artiklar: https://sites.google.com/ulricehamn.se/mediatektingsholm/startsida/information/vetenskapliga-artiklar
+PDF artikel ("nintendo entertainment system" sök på google scholar): http://www.wasautomaat.com/contents/media/NESDoc.pdf
+Youtube kanalen Morphcat Games har gjort Micro Mages.
+Exempelproject: pawn addventure på github : https://github.com/Vector35/PwnAdventureZ
+https://www.youtube.com/watch?v=mnUXYl5B9Qs&t=409s
+NES emulator making seiries youtube: https://www.youtube.com/watch?v=F8kx56OZQhg
+6502 hardware, includes a table of opcodes and their clock cycles; important for optimizations: http://archive.6502.org/datasheets/rockwell_r650x_r651x.pdf
+The Mesen emulator: mesen.ca, mesen debugger: https://www.mesen.ca/docs/debugging.html
+Shiru's Stuff: https://shiru.untergrund.net/software.shtml
+
+6502 opcodes: http://www.6502.org/tutorials/6502opcodes.html
+Status flags, the status registor 'P': https://wiki.nesdev.com/w/index.php/Status_flags#The_B_flag
+Stack: https://wiki.nesdev.com/w/index.php/Stack
+VBlank/NMI NesDev page: http://wiki.nesdev.com/w/index.php/The_frame_and_NMIs
+Optimitations: https://wiki.nesdev.com/w/index.php/6502_assembly_optimisations
+FCEUX debugger: http://wiki.nesdev.com/w/index.php/FCEUX_debugger
+
+PRNG: https://wiki.nesdev.com/w/index.php/Random_number_generator
+
+Some words of wisdom:
+	"All programming languages have three basic concepts. They are instructions, variables, and control flow. If any of those three are missing it is no longer a true programming language. For example HTML has no control flow so it is not a programming language."
+	The NES's CPU is actually a 2A03, a variant of the 6502. The PPU is a 2C02.
+
+Retro cartridge making tutorial:
+        https://www.google.com/amp/s/thepoorstudenthobbyist.wordpress.com/2017/06/25/how-to-make-an-nes-reproduction-cartridge/amp/
+
+Nesdev:
+        wiki.nesdev.com/w/index.php/Nesdev_Wiki
